@@ -4,7 +4,7 @@
 
 ## Education
  			        		
-- B.Tech., Computer Science | University of Engineering and Management at Kolkata (_June 2019_)
+- B.Tech., CSE | University of Engineering and Management at Kolkata (_June 2019_)
 
 ## Work Experience
 **Senior Software Engineer @ Capgemini Technology Services (_January 2023 - Present_)**
@@ -27,10 +27,11 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+# ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+# [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+# Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately # estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely # # from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+# ![Bike Study](/assets/img/bike_study.jpeg)
 
+- [Data Science Blog](https://medium.com/@shawhin)
