@@ -8,14 +8,17 @@
 
 ## Work Experience
 **Senior Software Engineer @ Capgemini Technology Services (_January 2023 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Uncovered the probabilities of Frauds in Health Insurance Claim using patient behaviour, consultation history and claim information. 
+- Redeveloped originations model for Medical and Consultation Adherence which resulted in 50% improvement in model performance and saving million dollars in potential losses.
+- Forecasted Dairy Product demand using timeseries and supervised machine learning Algorithms which helped improved raw material procurement efficiency by more than 30%.
+  
 
 **Software Engineer @ Capgemini Technology Services ( April 2021 - December 2022)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Conducted data collection, processing, and analysis for Incident Classification using NLP resulting in efficient classification and reducing the assignment time by more than 20%. 
+- Applied supervised machine learning approaches to optimize Scholarship Allocation to ensure equiable opportunities.
+- Used NLP techniques to apply Automated Resume Parsing enabling efficient candidate assessment for recruiters.
 
-'''
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
