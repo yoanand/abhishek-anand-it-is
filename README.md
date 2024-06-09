@@ -27,7 +27,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Update in Progress...
+### Updating ...
 
 
 - [Data Science Blog](https://medium.com/@abhishek192033)
