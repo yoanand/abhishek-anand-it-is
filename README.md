@@ -30,4 +30,4 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ### Updating ...
 
 
-- [Data Science Blog](https://medium.com/@abhishek192033)
+- [Data Science Blog](https://medium.com/@abhishek-anand-blogs-it-is)
