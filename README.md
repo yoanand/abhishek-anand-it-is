@@ -4,7 +4,7 @@
 
 ## Education
  			        		
-- B.Tech., CSE | University of Engineering and Management at Kolkata (_June 2019_)
+- B.Tech., CSE | University of Engineering and Management, Kolkata (_June 2019_)
 
 ## Work Experience
 **Senior Software Engineer @ Capgemini Technology Services (_January 2023 - Present_)**
